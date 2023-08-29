@@ -1,0 +1,2 @@
+# Prognosemodell_Online_Kreditzahlungsverkehr
+Erstellen eines Prognosemodells des Kreditkartenzahlungsverkehr für Online- Einkäufe
